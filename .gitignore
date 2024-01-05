@@ -1,2 +1,11 @@
 env
 .ipynb_checkpoints
+data
+models
+running-mlflow-examples
+prefect-mlops-zoomcamp
+models_mlflow
+preprocessor
+mlruns
+.vscode
+.env
